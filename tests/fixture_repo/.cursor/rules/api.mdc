@@ -1,0 +1,6 @@
+---
+description: api rules
+globs: api/**, routes/**
+alwaysApply: false
+---
+Handle API errors with the shared error type.

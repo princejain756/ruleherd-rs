@@ -1,0 +1,14 @@
+{
+  "name": "fixture-repo",
+  "scripts": {
+    "build": "tsc",
+    "lint": "eslint .",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "react": "^19.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.0"
+  }
+}
